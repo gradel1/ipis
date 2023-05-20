@@ -4,4 +4,6 @@
 =======
 3. changed patch 1
 4. changed code style
+5. merged patch1
+6. added string value
 >>>>>>> patch1
